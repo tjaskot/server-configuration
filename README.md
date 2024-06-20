@@ -23,7 +23,7 @@ Start by creating a new Session in MobaXterm. Open MobaXterm and go to "Sessions
 ![Mobaxterm New Session](./images/mobaxterm_session_settings.PNG)
 
 Alternatively if you prefer to use a terminal such as Git-Bash:
-• Login to remote server using SSH.
+- Login to remote server using SSH.
 ```shell
 ssh <username>@<IP>
 ssh trevorj@10.0.6.38
