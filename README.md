@@ -1,4 +1,4 @@
-# Tech Primer Template
+# Server Setup and Configuration
 
 Description/Purpose:
 - instrsuctions on how to setup and cenfigure a new Linux server for ACI IT services and capabilities.
@@ -243,9 +243,3 @@ in dev server (ACI-CPortal).
 You're set! You have now configured with Nginx, Flask, FastApi, Systemctl, Journalctl, Users, and other amazing work!
 Here is the architecture you have setup:
 - ![Server and Python Architecture](./images/Server%20Architecture.PNG)
-
-## Points of Contact
-
-- Author: Trevor Jaskot
-  - Org: ACI IT
-- Support: Connor MacLeod, Yingyuan Jiang, Bruce Park
